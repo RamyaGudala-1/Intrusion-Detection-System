@@ -1,0 +1,37 @@
+#train model
+python train_model.py
+
+#evaluate model.py 
+python evaluate_model.py ../data/dataset/KDDTest+.arff
+
+#visualisation.py
+python visualize.py
+
+# get active iface
+python detect_network_interface.py
+python detect_iface.py
+
+
+#realtime detection
+python ids_cli.py --iface "\Device\NPF_{1B6808B7-3BD4-4673-9280-E08963661563}"
+    #properties
+    --stimulate-attack true --stimulate-count 10 --stimulate-delay 0.1
+
+example : 
+python ids_cli.py --iface "\Device\NPF_{1B6808B7-3BD4-4673-9280-E08963661563}" --stimulate-attack true --stimulate-count 100 
+python ids_cli.py --iface "\Device\NPF_{1B6808B7-3BD4-4673-9280-E08963661563}"
+
+##Attack Stimulators
+    python attack.py
+    python intensity_test.py
+    python stimulate_attack.py
+
+# TCP SYN scan (requires admin privileges)
+nmap -sS -Pn -p 1-200 127.0.0.1
+
+# UDP scan
+nmap -sU -Pn -p 1-200 127.0.0.1
+
+# aggressive scan (more noisy)
+nmap -A -Pn 127.0.0.1
+

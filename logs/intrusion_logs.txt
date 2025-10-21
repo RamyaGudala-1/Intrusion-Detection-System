@@ -1,0 +1,1793 @@
+==================== INTRUSION ALERT ====================
+Time       : 2025-10-20 11:58:59.046122
+Source     : ?.?.?.?:?
+Destination: ?.?.?.?:?
+Protocol   : TCP
+Length     : 0 bytes
+
+Prediction : ATTACK (N:45.0% / A:55.0%)
+Consecutive suspicious packets: 3
+
+Top features:
+  - protocol_type : 1
+  - service       : 0
+  - flag          : 0
+  - src_bytes     : 0
+  - dst_bytes     : 0
+============================================================================ INTRUSION ALERT ====================
+Time       : 2025-10-20 11:58:59.217236
+Source     : ?.?.?.?:?
+Destination: ?.?.?.?:?
+Protocol   : TCP
+Length     : 0 bytes
+
+Prediction : ATTACK (N:45.0% / A:55.0%)
+Consecutive suspicious packets: 4
+
+Top features:
+  - protocol_type : 1
+  - service       : 0
+  - flag          : 0
+  - src_bytes     : 0
+  - dst_bytes     : 0
+============================================================================ INTRUSION ALERT ====================
+Time       : 2025-10-20 11:58:59.380464
+Source     : ?.?.?.?:?
+Destination: ?.?.?.?:?
+Protocol   : TCP
+Length     : 0 bytes
+
+Prediction : ATTACK (N:45.0% / A:55.0%)
+Consecutive suspicious packets: 5
+
+Top features:
+  - protocol_type : 1
+  - service       : 0
+  - flag          : 0
+  - src_bytes     : 0
+  - dst_bytes     : 0
+============================================================================ INTRUSION ALERT ====================
+Time       : 2025-10-20 11:58:59.524557
+Source     : ?.?.?.?:?
+Destination: ?.?.?.?:?
+Protocol   : TCP
+Length     : 0 bytes
+
+Prediction : ATTACK (N:45.0% / A:55.0%)
+Consecutive suspicious packets: 6
+
+Top features:
+  - protocol_type : 1
+  - service       : 0
+  - flag          : 0
+  - src_bytes     : 0
+  - dst_bytes     : 0
+============================================================================ INTRUSION ALERT ====================
+Time       : 2025-10-20 11:58:59.708183
+Source     : ?.?.?.?:?
+Destination: ?.?.?.?:?
+Protocol   : TCP
+Length     : 0 bytes
+
+Prediction : ATTACK (N:45.0% / A:55.0%)
+Consecutive suspicious packets: 7
+
+Top features:
+  - protocol_type : 1
+  - service       : 0
+  - flag          : 0
+  - src_bytes     : 0
+  - dst_bytes     : 0
+============================================================================ INTRUSION ALERT ====================
+Time       : 2025-10-20 11:58:59.856429
+Source     : ?.?.?.?:?
+Destination: ?.?.?.?:?
+Protocol   : TCP
+Length     : 0 bytes
+
+Prediction : ATTACK (N:45.0% / A:55.0%)
+Consecutive suspicious packets: 8
+
+Top features:
+  - protocol_type : 1
+  - service       : 0
+  - flag          : 0
+  - src_bytes     : 0
+  - dst_bytes     : 0
+============================================================================ INTRUSION ALERT ====================
+Time       : 2025-10-20 11:59:00.035220
+Source     : ?.?.?.?:?
+Destination: ?.?.?.?:?
+Protocol   : TCP
+Length     : 0 bytes
+
+Prediction : ATTACK (N:45.0% / A:55.0%)
+Consecutive suspicious packets: 9
+
+Top features:
+  - protocol_type : 1
+  - service       : 0
+  - flag          : 0
+  - src_bytes     : 0
+  - dst_bytes     : 0
+============================================================================ INTRUSION ALERT ====================
+Time       : 2025-10-20 11:59:00.182602
+Source     : ?.?.?.?:?
+Destination: ?.?.?.?:?
+Protocol   : TCP
+Length     : 0 bytes
+
+Prediction : ATTACK (N:45.0% / A:55.0%)
+Consecutive suspicious packets: 10
+
+Top features:
+  - protocol_type : 1
+  - service       : 0
+  - flag          : 0
+  - src_bytes     : 0
+  - dst_bytes     : 0
+============================================================================ INTRUSION ALERT ====================
+Time       : 2025-10-20 11:59:00.322186
+Source     : ?.?.?.?:?
+Destination: ?.?.?.?:?
+Protocol   : TCP
+Length     : 0 bytes
+
+Prediction : ATTACK (N:45.0% / A:55.0%)
+Consecutive suspicious packets: 11
+
+Top features:
+  - protocol_type : 1
+  - service       : 0
+  - flag          : 0
+  - src_bytes     : 0
+  - dst_bytes     : 0
+============================================================================ INTRUSION ALERT ====================
+Time       : 2025-10-20 11:59:00.469561
+Source     : ?.?.?.?:?
+Destination: ?.?.?.?:?
+Protocol   : TCP
+Length     : 0 bytes
+
+Prediction : ATTACK (N:45.0% / A:55.0%)
+Consecutive suspicious packets: 12
+
+Top features:
+  - protocol_type : 1
+  - service       : 0
+  - flag          : 0
+  - src_bytes     : 0
+  - dst_bytes     : 0
+============================================================================ INTRUSION ALERT ====================
+Time       : 2025-10-20 11:59:00.623412
+Source     : ?.?.?.?:?
+Destination: ?.?.?.?:?
+Protocol   : TCP
+Length     : 0 bytes
+
+Prediction : ATTACK (N:45.0% / A:55.0%)
+Consecutive suspicious packets: 13
+
+Top features:
+  - protocol_type : 1
+  - service       : 0
+  - flag          : 0
+  - src_bytes     : 0
+  - dst_bytes     : 0
+============================================================================ INTRUSION ALERT ====================
+Time       : 2025-10-20 12:18:19.404676
+Source     : 10.0.0.99:12345
+Destination: 192.168.0.1:80
+Protocol   : TCP
+Length     : 0 bytes
+
+Prediction : ATTACK (N:0.0% / A:100.0%)
+Consecutive suspicious packets: 3
+
+Top features:
+  - protocol_type : 1
+  - service       : 49
+  - flag          : 1
+  - src_bytes     : 0
+  - dst_bytes     : 0
+============================================================================ INTRUSION ALERT ====================
+Time       : 2025-10-20 12:18:19.546171
+Source     : 10.0.0.99:12345
+Destination: 192.168.0.1:80
+Protocol   : TCP
+Length     : 0 bytes
+
+Prediction : ATTACK (N:0.0% / A:100.0%)
+Consecutive suspicious packets: 4
+
+Top features:
+  - protocol_type : 1
+  - service       : 49
+  - flag          : 4
+  - src_bytes     : 0
+  - dst_bytes     : 0
+============================================================================ INTRUSION ALERT ====================
+Time       : 2025-10-20 12:18:20.111270
+Source     : 10.0.0.99:12345
+Destination: 192.168.0.1:80
+Protocol   : TCP
+Length     : 0 bytes
+
+Prediction : ATTACK (N:0.0% / A:100.0%)
+Consecutive suspicious packets: 3
+
+Top features:
+  - protocol_type : 1
+  - service       : 29
+  - flag          : 1
+  - src_bytes     : 0
+  - dst_bytes     : 0
+============================================================================ INTRUSION ALERT ====================
+Time       : 2025-10-20 12:18:23.938146
+Source     : 10.0.0.99:12345
+Destination: 192.168.0.1:80
+Protocol   : TCP
+Length     : 0 bytes
+
+Prediction : ATTACK (N:0.0% / A:100.0%)
+Consecutive suspicious packets: 3
+
+Top features:
+  - protocol_type : 1
+  - service       : 18
+  - flag          : 5
+  - src_bytes     : 0
+  - dst_bytes     : 0
+============================================================================ INTRUSION ALERT ====================
+Time       : 2025-10-20 12:18:24.069942
+Source     : 10.0.0.99:12345
+Destination: 192.168.0.1:80
+Protocol   : TCP
+Length     : 0 bytes
+
+Prediction : ATTACK (N:0.0% / A:100.0%)
+Consecutive suspicious packets: 4
+
+Top features:
+  - protocol_type : 1
+  - service       : 49
+  - flag          : 5
+  - src_bytes     : 0
+  - dst_bytes     : 0
+============================================================================ INTRUSION ALERT ====================
+Time       : 2025-10-20 12:18:32.493147
+Source     : 10.0.0.99:12345
+Destination: 192.168.0.1:80
+Protocol   : TCP
+Length     : 334 bytes
+
+Prediction : ATTACK (N:1.0% / A:99.0%)
+Consecutive suspicious packets: 3
+
+Top features:
+  - protocol_type : 1
+  - service       : 20
+  - flag          : 9
+  - src_bytes     : 334
+  - dst_bytes     : 0
+============================================================================ INTRUSION ALERT ====================
+Time       : 2025-10-20 16:09:30.853053
+Source     : 10.0.0.99:12345
+Destination: 192.168.0.1:80
+Protocol   : TCP
+Length     : 0 bytes
+
+Prediction : ATTACK (N:0.0% / A:100.0%)
+Consecutive suspicious packets: 3
+
+Top features:
+  - protocol_type : 1
+  - service       : 49
+  - flag          : 1
+  - src_bytes     : 0
+  - dst_bytes     : 0
+============================================================================ INTRUSION ALERT ====================
+Time       : 2025-10-20 16:09:30.983644
+Source     : 10.0.0.99:12345
+Destination: 192.168.0.1:80
+Protocol   : TCP
+Length     : 0 bytes
+
+Prediction : ATTACK (N:0.0% / A:100.0%)
+Consecutive suspicious packets: 4
+
+Top features:
+  - protocol_type : 1
+  - service       : 49
+  - flag          : 4
+  - src_bytes     : 0
+  - dst_bytes     : 0
+============================================================================ INTRUSION ALERT ====================
+Time       : 2025-10-20 16:09:31.531048
+Source     : 10.0.0.99:12345
+Destination: 192.168.0.1:80
+Protocol   : TCP
+Length     : 0 bytes
+
+Prediction : ATTACK (N:0.0% / A:100.0%)
+Consecutive suspicious packets: 3
+
+Top features:
+  - protocol_type : 1
+  - service       : 29
+  - flag          : 1
+  - src_bytes     : 0
+  - dst_bytes     : 0
+============================================================================ INTRUSION ALERT ====================
+Time       : 2025-10-20 16:10:10.257537
+Source     : 10.0.0.99:12345
+Destination: 192.168.0.1:80
+Protocol   : TCP
+Length     : 0 bytes
+
+Prediction : ATTACK (N:0.0% / A:100.0%)
+Consecutive suspicious packets: 3
+
+Top features:
+  - protocol_type : 1
+  - service       : 49
+  - flag          : 1
+  - src_bytes     : 0
+  - dst_bytes     : 0
+============================================================================ INTRUSION ALERT ====================
+Time       : 2025-10-20 16:10:10.399999
+Source     : 10.0.0.99:12345
+Destination: 192.168.0.1:80
+Protocol   : TCP
+Length     : 0 bytes
+
+Prediction : ATTACK (N:0.0% / A:100.0%)
+Consecutive suspicious packets: 4
+
+Top features:
+  - protocol_type : 1
+  - service       : 49
+  - flag          : 4
+  - src_bytes     : 0
+  - dst_bytes     : 0
+============================================================================ INTRUSION ALERT ====================
+Time       : 2025-10-20 16:10:10.974776
+Source     : 10.0.0.99:12345
+Destination: 192.168.0.1:80
+Protocol   : TCP
+Length     : 0 bytes
+
+Prediction : ATTACK (N:0.0% / A:100.0%)
+Consecutive suspicious packets: 3
+
+Top features:
+  - protocol_type : 1
+  - service       : 29
+  - flag          : 1
+  - src_bytes     : 0
+  - dst_bytes     : 0
+============================================================================ INTRUSION ALERT ====================
+Time       : 2025-10-20 16:10:14.938254
+Source     : 10.0.0.99:12345
+Destination: 192.168.0.1:80
+Protocol   : TCP
+Length     : 0 bytes
+
+Prediction : ATTACK (N:0.0% / A:100.0%)
+Consecutive suspicious packets: 3
+
+Top features:
+  - protocol_type : 1
+  - service       : 18
+  - flag          : 5
+  - src_bytes     : 0
+  - dst_bytes     : 0
+============================================================================ INTRUSION ALERT ====================
+Time       : 2025-10-20 16:10:15.076070
+Source     : 10.0.0.99:12345
+Destination: 192.168.0.1:80
+Protocol   : TCP
+Length     : 0 bytes
+
+Prediction : ATTACK (N:0.0% / A:100.0%)
+Consecutive suspicious packets: 4
+
+Top features:
+  - protocol_type : 1
+  - service       : 49
+  - flag          : 5
+  - src_bytes     : 0
+  - dst_bytes     : 0
+============================================================================ INTRUSION ALERT ====================
+Time       : 2025-10-20 16:10:43.602491
+Source     : 10.0.0.99:12345
+Destination: 192.168.0.1:80
+Protocol   : TCP
+Length     : 0 bytes
+
+Prediction : ATTACK (N:0.0% / A:100.0%)
+Consecutive suspicious packets: 3
+
+Top features:
+  - protocol_type : 1
+  - service       : 49
+  - flag          : 1
+  - src_bytes     : 0
+  - dst_bytes     : 0
+============================================================================ INTRUSION ALERT ====================
+Time       : 2025-10-20 16:10:43.743441
+Source     : 10.0.0.99:12345
+Destination: 192.168.0.1:80
+Protocol   : TCP
+Length     : 0 bytes
+
+Prediction : ATTACK (N:0.0% / A:100.0%)
+Consecutive suspicious packets: 4
+
+Top features:
+  - protocol_type : 1
+  - service       : 49
+  - flag          : 4
+  - src_bytes     : 0
+  - dst_bytes     : 0
+============================================================================ INTRUSION ALERT ====================
+Time       : 2025-10-20 16:10:44.289849
+Source     : 10.0.0.99:12345
+Destination: 192.168.0.1:80
+Protocol   : TCP
+Length     : 0 bytes
+
+Prediction : ATTACK (N:0.0% / A:100.0%)
+Consecutive suspicious packets: 3
+
+Top features:
+  - protocol_type : 1
+  - service       : 29
+  - flag          : 1
+  - src_bytes     : 0
+  - dst_bytes     : 0
+============================================================================ INTRUSION ALERT ====================
+Time       : 2025-10-20 16:10:48.246296
+Source     : 10.0.0.99:12345
+Destination: 192.168.0.1:80
+Protocol   : TCP
+Length     : 0 bytes
+
+Prediction : ATTACK (N:0.0% / A:100.0%)
+Consecutive suspicious packets: 3
+
+Top features:
+  - protocol_type : 1
+  - service       : 18
+  - flag          : 5
+  - src_bytes     : 0
+  - dst_bytes     : 0
+============================================================================ INTRUSION ALERT ====================
+Time       : 2025-10-20 16:10:48.390978
+Source     : 10.0.0.99:12345
+Destination: 192.168.0.1:80
+Protocol   : TCP
+Length     : 0 bytes
+
+Prediction : ATTACK (N:0.0% / A:100.0%)
+Consecutive suspicious packets: 4
+
+Top features:
+  - protocol_type : 1
+  - service       : 49
+  - flag          : 5
+  - src_bytes     : 0
+  - dst_bytes     : 0
+============================================================================ INTRUSION ALERT ====================
+Time       : 2025-10-20 16:10:57.043194
+Source     : 10.0.0.99:12345
+Destination: 192.168.0.1:80
+Protocol   : TCP
+Length     : 334 bytes
+
+Prediction : ATTACK (N:1.0% / A:99.0%)
+Consecutive suspicious packets: 3
+
+Top features:
+  - protocol_type : 1
+  - service       : 20
+  - flag          : 9
+  - src_bytes     : 334
+  - dst_bytes     : 0
+============================================================================ INTRUSION ALERT ====================
+Time       : 2025-10-20 16:11:04.885958
+Source     : 10.0.0.99:12345
+Destination: 192.168.0.1:80
+Protocol   : TCP
+Length     : 0 bytes
+
+Prediction : ATTACK (N:0.0% / A:100.0%)
+Consecutive suspicious packets: 3
+
+Top features:
+  - protocol_type : 1
+  - service       : 56
+  - flag          : 5
+  - src_bytes     : 0
+  - dst_bytes     : 0
+============================================================================ INTRUSION ALERT ====================
+Time       : 2025-10-20 16:11:06.404569
+Source     : 10.0.0.99:12345
+Destination: 192.168.0.1:80
+Protocol   : TCP
+Length     : 0 bytes
+
+Prediction : ATTACK (N:0.0% / A:100.0%)
+Consecutive suspicious packets: 3
+
+Top features:
+  - protocol_type : 1
+  - service       : 6
+  - flag          : 4
+  - src_bytes     : 0
+  - dst_bytes     : 0
+============================================================================ INTRUSION ALERT ====================
+Time       : 2025-10-20 16:11:08.643256
+Source     : 10.0.0.99:12345
+Destination: 192.168.0.1:80
+Protocol   : OTHER
+Length     : 8 bytes
+
+Prediction : ATTACK (N:0.0% / A:100.0%)
+Consecutive suspicious packets: 3
+
+Top features:
+  - protocol_type : 0
+  - service       : 14
+  - flag          : 9
+  - src_bytes     : 8
+  - dst_bytes     : 0
+============================================================================ INTRUSION ALERT ====================
+Time       : 2025-10-20 16:11:08.785143
+Source     : 10.0.0.99:12345
+Destination: 192.168.0.1:80
+Protocol   : TCP
+Length     : 0 bytes
+
+Prediction : ATTACK (N:0.0% / A:100.0%)
+Consecutive suspicious packets: 4
+
+Top features:
+  - protocol_type : 1
+  - service       : 17
+  - flag          : 5
+  - src_bytes     : 0
+  - dst_bytes     : 0
+============================================================================ INTRUSION ALERT ====================
+Time       : 2025-10-20 16:11:15.339915
+Source     : 10.0.0.99:12345
+Destination: 192.168.0.1:80
+Protocol   : OTHER
+Length     : 1032 bytes
+
+Prediction : ATTACK (N:0.0% / A:100.0%)
+Consecutive suspicious packets: 3
+
+Top features:
+  - protocol_type : 0
+  - service       : 15
+  - flag          : 9
+  - src_bytes     : 1032
+  - dst_bytes     : 0
+============================================================================ INTRUSION ALERT ====================
+Time       : 2025-10-20 16:11:15.479549
+Source     : 10.0.0.99:12345
+Destination: 192.168.0.1:80
+Protocol   : OTHER
+Length     : 8 bytes
+
+Prediction : ATTACK (N:0.0% / A:100.0%)
+Consecutive suspicious packets: 4
+
+Top features:
+  - protocol_type : 0
+  - service       : 14
+  - flag          : 9
+  - src_bytes     : 8
+  - dst_bytes     : 0
+============================================================================ INTRUSION ALERT ====================
+Time       : 2025-10-20 16:11:16.174000
+Source     : 10.0.0.99:12345
+Destination: 192.168.0.1:80
+Protocol   : UDP
+Length     : 1 bytes
+
+Prediction : ATTACK (N:0.0% / A:100.0%)
+Consecutive suspicious packets: 3
+
+Top features:
+  - protocol_type : 2
+  - service       : 49
+  - flag          : 9
+  - src_bytes     : 1
+  - dst_bytes     : 0
+============================================================================ INTRUSION ALERT ====================
+Time       : 2025-10-20 16:11:21.248203
+Source     : 10.0.0.99:12345
+Destination: 192.168.0.1:80
+Protocol   : TCP
+Length     : 0 bytes
+
+Prediction : ATTACK (N:0.0% / A:100.0%)
+Consecutive suspicious packets: 3
+
+Top features:
+  - protocol_type : 1
+  - service       : 24
+  - flag          : 5
+  - src_bytes     : 0
+  - dst_bytes     : 0
+============================================================================ INTRUSION ALERT ====================
+Time       : 2025-10-20 16:11:25.041732
+Source     : 10.0.0.99:12345
+Destination: 192.168.0.1:80
+Protocol   : OTHER
+Length     : 8 bytes
+
+Prediction : ATTACK (N:0.0% / A:100.0%)
+Consecutive suspicious packets: 3
+
+Top features:
+  - protocol_type : 0
+  - service       : 14
+  - flag          : 9
+  - src_bytes     : 8
+  - dst_bytes     : 0
+============================================================================ INTRUSION ALERT ====================
+Time       : 2025-10-20 16:11:25.173306
+Source     : 10.0.0.99:12345
+Destination: 192.168.0.1:80
+Protocol   : TCP
+Length     : 0 bytes
+
+Prediction : ATTACK (N:0.0% / A:100.0%)
+Consecutive suspicious packets: 4
+
+Top features:
+  - protocol_type : 1
+  - service       : 49
+  - flag          : 5
+  - src_bytes     : 0
+  - dst_bytes     : 0
+============================================================================ INTRUSION ALERT ====================
+Time       : 2025-10-20 16:11:25.319074
+Source     : 10.0.0.99:12345
+Destination: 192.168.0.1:80
+Protocol   : TCP
+Length     : 0 bytes
+
+Prediction : ATTACK (N:0.0% / A:100.0%)
+Consecutive suspicious packets: 5
+
+Top features:
+  - protocol_type : 1
+  - service       : 49
+  - flag          : 5
+  - src_bytes     : 0
+  - dst_bytes     : 0
+============================================================================ INTRUSION ALERT ====================
+Time       : 2025-10-20 16:11:28.453715
+Source     : 10.0.0.99:12345
+Destination: 192.168.0.1:80
+Protocol   : TCP
+Length     : 0 bytes
+
+Prediction : ATTACK (N:0.0% / A:100.0%)
+Consecutive suspicious packets: 3
+
+Top features:
+  - protocol_type : 1
+  - service       : 20
+  - flag          : 5
+  - src_bytes     : 0
+  - dst_bytes     : 0
+============================================================================ INTRUSION ALERT ====================
+Time       : 2025-10-20 16:11:28.573863
+Source     : 10.0.0.99:12345
+Destination: 192.168.0.1:80
+Protocol   : OTHER
+Length     : 8 bytes
+
+Prediction : ATTACK (N:0.0% / A:100.0%)
+Consecutive suspicious packets: 4
+
+Top features:
+  - protocol_type : 0
+  - service       : 14
+  - flag          : 9
+  - src_bytes     : 8
+  - dst_bytes     : 0
+============================================================================ INTRUSION ALERT ====================
+Time       : 2025-10-20 16:11:28.722242
+Source     : 10.0.0.99:12345
+Destination: 192.168.0.1:80
+Protocol   : TCP
+Length     : 54540 bytes
+
+Prediction : ATTACK (N:0.0% / A:100.0%)
+Consecutive suspicious packets: 5
+
+Top features:
+  - protocol_type : 1
+  - service       : 24
+  - flag          : 9
+  - src_bytes     : 54540
+  - dst_bytes     : 8314
+============================================================================ INTRUSION ALERT ====================
+Time       : 2025-10-20 16:11:30.115196
+Source     : 10.0.0.99:12345
+Destination: 192.168.0.1:80
+Protocol   : TCP
+Length     : 0 bytes
+
+Prediction : ATTACK (N:0.0% / A:100.0%)
+Consecutive suspicious packets: 3
+
+Top features:
+  - protocol_type : 1
+  - service       : 49
+  - flag          : 1
+  - src_bytes     : 0
+  - dst_bytes     : 0
+============================================================================ INTRUSION ALERT ====================
+Time       : 2025-10-20 16:11:30.256905
+Source     : 10.0.0.99:12345
+Destination: 192.168.0.1:80
+Protocol   : OTHER
+Length     : 8 bytes
+
+Prediction : ATTACK (N:0.0% / A:100.0%)
+Consecutive suspicious packets: 4
+
+Top features:
+  - protocol_type : 0
+  - service       : 14
+  - flag          : 9
+  - src_bytes     : 8
+  - dst_bytes     : 0
+============================================================================ INTRUSION ALERT ====================
+Time       : 2025-10-20 16:11:30.403103
+Source     : 10.0.0.99:12345
+Destination: 192.168.0.1:80
+Protocol   : TCP
+Length     : 0 bytes
+
+Prediction : ATTACK (N:0.0% / A:100.0%)
+Consecutive suspicious packets: 5
+
+Top features:
+  - protocol_type : 1
+  - service       : 23
+  - flag          : 5
+  - src_bytes     : 0
+  - dst_bytes     : 0
+============================================================================ INTRUSION ALERT ====================
+Time       : 2025-10-20 16:11:30.544478
+Source     : 10.0.0.99:12345
+Destination: 192.168.0.1:80
+Protocol   : TCP
+Length     : 0 bytes
+
+Prediction : ATTACK (N:0.0% / A:100.0%)
+Consecutive suspicious packets: 6
+
+Top features:
+  - protocol_type : 1
+  - service       : 49
+  - flag          : 5
+  - src_bytes     : 0
+  - dst_bytes     : 0
+============================================================================ INTRUSION ALERT ====================
+Time       : 2025-10-20 16:11:34.751418
+Source     : 10.0.0.99:12345
+Destination: 192.168.0.1:80
+Protocol   : TCP
+Length     : 0 bytes
+
+Prediction : ATTACK (N:0.0% / A:100.0%)
+Consecutive suspicious packets: 3
+
+Top features:
+  - protocol_type : 1
+  - service       : 49
+  - flag          : 5
+  - src_bytes     : 0
+  - dst_bytes     : 0
+============================================================================ INTRUSION ALERT ====================
+Time       : 2025-10-20 16:11:34.890169
+Source     : 10.0.0.99:12345
+Destination: 192.168.0.1:80
+Protocol   : TCP
+Length     : 0 bytes
+
+Prediction : ATTACK (N:0.0% / A:100.0%)
+Consecutive suspicious packets: 4
+
+Top features:
+  - protocol_type : 1
+  - service       : 11
+  - flag          : 5
+  - src_bytes     : 0
+  - dst_bytes     : 0
+============================================================================ INTRUSION ALERT ====================
+Time       : 2025-10-20 16:11:37.532530
+Source     : 10.0.0.99:12345
+Destination: 192.168.0.1:80
+Protocol   : TCP
+Length     : 0 bytes
+
+Prediction : ATTACK (N:0.0% / A:100.0%)
+Consecutive suspicious packets: 3
+
+Top features:
+  - protocol_type : 1
+  - service       : 52
+  - flag          : 5
+  - src_bytes     : 0
+  - dst_bytes     : 0
+============================================================================ INTRUSION ALERT ====================
+Time       : 2025-10-20 16:11:37.670806
+Source     : 10.0.0.99:12345
+Destination: 192.168.0.1:80
+Protocol   : TCP
+Length     : 0 bytes
+
+Prediction : ATTACK (N:0.0% / A:100.0%)
+Consecutive suspicious packets: 4
+
+Top features:
+  - protocol_type : 1
+  - service       : 49
+  - flag          : 5
+  - src_bytes     : 0
+  - dst_bytes     : 0
+============================================================================ INTRUSION ALERT ====================
+Time       : 2025-10-20 16:11:37.817490
+Source     : 10.0.0.99:12345
+Destination: 192.168.0.1:80
+Protocol   : TCP
+Length     : 0 bytes
+
+Prediction : ATTACK (N:0.0% / A:100.0%)
+Consecutive suspicious packets: 5
+
+Top features:
+  - protocol_type : 1
+  - service       : 66
+  - flag          : 2
+  - src_bytes     : 0
+  - dst_bytes     : 0
+============================================================================ INTRUSION ALERT ====================
+Time       : 2025-10-20 16:11:39.531470
+Source     : 10.0.0.99:12345
+Destination: 192.168.0.1:80
+Protocol   : TCP
+Length     : 0 bytes
+
+Prediction : ATTACK (N:0.0% / A:100.0%)
+Consecutive suspicious packets: 3
+
+Top features:
+  - protocol_type : 1
+  - service       : 5
+  - flag          : 5
+  - src_bytes     : 0
+  - dst_bytes     : 0
+============================================================================ INTRUSION ALERT ====================
+Time       : 2025-10-20 16:11:41.068360
+Source     : 10.0.0.99:12345
+Destination: 192.168.0.1:80
+Protocol   : TCP
+Length     : 0 bytes
+
+Prediction : ATTACK (N:0.0% / A:100.0%)
+Consecutive suspicious packets: 3
+
+Top features:
+  - protocol_type : 1
+  - service       : 29
+  - flag          : 5
+  - src_bytes     : 0
+  - dst_bytes     : 0
+============================================================================ INTRUSION ALERT ====================
+Time       : 2025-10-20 16:11:43.746941
+Source     : 10.0.0.99:12345
+Destination: 192.168.0.1:80
+Protocol   : TCP
+Length     : 0 bytes
+
+Prediction : ATTACK (N:0.0% / A:100.0%)
+Consecutive suspicious packets: 3
+
+Top features:
+  - protocol_type : 1
+  - service       : 49
+  - flag          : 5
+  - src_bytes     : 0
+  - dst_bytes     : 0
+============================================================================ INTRUSION ALERT ====================
+Time       : 2025-10-20 16:11:43.892898
+Source     : 10.0.0.99:12345
+Destination: 192.168.0.1:80
+Protocol   : OTHER
+Length     : 8 bytes
+
+Prediction : ATTACK (N:0.0% / A:100.0%)
+Consecutive suspicious packets: 4
+
+Top features:
+  - protocol_type : 0
+  - service       : 14
+  - flag          : 9
+  - src_bytes     : 8
+  - dst_bytes     : 0
+============================================================================ INTRUSION ALERT ====================
+Time       : 2025-10-20 16:11:44.746289
+Source     : 10.0.0.99:12345
+Destination: 192.168.0.1:80
+Protocol   : TCP
+Length     : 0 bytes
+
+Prediction : ATTACK (N:0.0% / A:100.0%)
+Consecutive suspicious packets: 3
+
+Top features:
+  - protocol_type : 1
+  - service       : 69
+  - flag          : 5
+  - src_bytes     : 0
+  - dst_bytes     : 0
+============================================================================ INTRUSION ALERT ====================
+Time       : 2025-10-20 16:11:44.897173
+Source     : 10.0.0.99:12345
+Destination: 192.168.0.1:80
+Protocol   : TCP
+Length     : 0 bytes
+
+Prediction : ATTACK (N:0.0% / A:100.0%)
+Consecutive suspicious packets: 4
+
+Top features:
+  - protocol_type : 1
+  - service       : 49
+  - flag          : 5
+  - src_bytes     : 0
+  - dst_bytes     : 0
+============================================================================ INTRUSION ALERT ====================
+Time       : 2025-10-20 16:11:45.045337
+Source     : 10.0.0.99:12345
+Destination: 192.168.0.1:80
+Protocol   : TCP
+Length     : 0 bytes
+
+Prediction : ATTACK (N:0.0% / A:100.0%)
+Consecutive suspicious packets: 5
+
+Top features:
+  - protocol_type : 1
+  - service       : 7
+  - flag          : 5
+  - src_bytes     : 0
+  - dst_bytes     : 0
+============================================================================ INTRUSION ALERT ====================
+Time       : 2025-10-20 16:11:46.171632
+Source     : 10.0.0.99:12345
+Destination: 192.168.0.1:80
+Protocol   : TCP
+Length     : 0 bytes
+
+Prediction : ATTACK (N:0.0% / A:100.0%)
+Consecutive suspicious packets: 3
+
+Top features:
+  - protocol_type : 1
+  - service       : 49
+  - flag          : 5
+  - src_bytes     : 0
+  - dst_bytes     : 0
+============================================================================ INTRUSION ALERT ====================
+Time       : 2025-10-20 16:11:48.125533
+Source     : 10.0.0.99:12345
+Destination: 192.168.0.1:80
+Protocol   : TCP
+Length     : 0 bytes
+
+Prediction : ATTACK (N:0.0% / A:100.0%)
+Consecutive suspicious packets: 3
+
+Top features:
+  - protocol_type : 1
+  - service       : 41
+  - flag          : 1
+  - src_bytes     : 0
+  - dst_bytes     : 0
+============================================================================ INTRUSION ALERT ====================
+Time       : 2025-10-20 16:11:48.266873
+Source     : 10.0.0.99:12345
+Destination: 192.168.0.1:80
+Protocol   : TCP
+Length     : 0 bytes
+
+Prediction : ATTACK (N:0.0% / A:100.0%)
+Consecutive suspicious packets: 4
+
+Top features:
+  - protocol_type : 1
+  - service       : 66
+  - flag          : 5
+  - src_bytes     : 0
+  - dst_bytes     : 0
+============================================================================ INTRUSION ALERT ====================
+Time       : 2025-10-20 16:11:49.394748
+Source     : 10.0.0.99:12345
+Destination: 192.168.0.1:80
+Protocol   : TCP
+Length     : 0 bytes
+
+Prediction : ATTACK (N:0.0% / A:100.0%)
+Consecutive suspicious packets: 3
+
+Top features:
+  - protocol_type : 1
+  - service       : 49
+  - flag          : 5
+  - src_bytes     : 0
+  - dst_bytes     : 0
+============================================================================ INTRUSION ALERT ====================
+Time       : 2025-10-20 16:11:49.541431
+Source     : 10.0.0.99:12345
+Destination: 192.168.0.1:80
+Protocol   : TCP
+Length     : 0 bytes
+
+Prediction : ATTACK (N:0.0% / A:100.0%)
+Consecutive suspicious packets: 4
+
+Top features:
+  - protocol_type : 1
+  - service       : 49
+  - flag          : 1
+  - src_bytes     : 0
+  - dst_bytes     : 0
+============================================================================ INTRUSION ALERT ====================
+Time       : 2025-10-20 16:11:56.852297
+Source     : 10.0.0.99:12345
+Destination: 192.168.0.1:80
+Protocol   : TCP
+Length     : 0 bytes
+
+Prediction : ATTACK (N:0.0% / A:100.0%)
+Consecutive suspicious packets: 3
+
+Top features:
+  - protocol_type : 1
+  - service       : 24
+  - flag          : 5
+  - src_bytes     : 0
+  - dst_bytes     : 0
+============================================================================ INTRUSION ALERT ====================
+Time       : 2025-10-20 16:12:03.468118
+Source     : 10.0.0.99:12345
+Destination: 192.168.0.1:80
+Protocol   : OTHER
+Length     : 520 bytes
+
+Prediction : ATTACK (N:0.0% / A:100.0%)
+Consecutive suspicious packets: 3
+
+Top features:
+  - protocol_type : 0
+  - service       : 15
+  - flag          : 9
+  - src_bytes     : 520
+  - dst_bytes     : 0
+============================================================================ INTRUSION ALERT ====================
+Time       : 2025-10-20 16:12:04.811833
+Source     : 10.0.0.99:12345
+Destination: 192.168.0.1:80
+Protocol   : TCP
+Length     : 0 bytes
+
+Prediction : ATTACK (N:0.0% / A:100.0%)
+Consecutive suspicious packets: 3
+
+Top features:
+  - protocol_type : 1
+  - service       : 20
+  - flag          : 5
+  - src_bytes     : 0
+  - dst_bytes     : 0
+============================================================================ INTRUSION ALERT ====================
+Time       : 2025-10-20 16:12:05.718670
+Source     : 10.0.0.99:12345
+Destination: 192.168.0.1:80
+Protocol   : TCP
+Length     : 0 bytes
+
+Prediction : ATTACK (N:3.0% / A:97.0%)
+Consecutive suspicious packets: 3
+
+Top features:
+  - protocol_type : 1
+  - service       : 11
+  - flag          : 9
+  - src_bytes     : 0
+  - dst_bytes     : 0
+============================================================================ INTRUSION ALERT ====================
+Time       : 2025-10-20 16:12:05.849471
+Source     : 10.0.0.99:12345
+Destination: 192.168.0.1:80
+Protocol   : TCP
+Length     : 0 bytes
+
+Prediction : ATTACK (N:0.0% / A:100.0%)
+Consecutive suspicious packets: 4
+
+Top features:
+  - protocol_type : 1
+  - service       : 35
+  - flag          : 1
+  - src_bytes     : 0
+  - dst_bytes     : 0
+============================================================================ INTRUSION ALERT ====================
+Time       : 2025-10-20 16:12:05.999147
+Source     : 10.0.0.99:12345
+Destination: 192.168.0.1:80
+Protocol   : TCP
+Length     : 0 bytes
+
+Prediction : ATTACK (N:0.0% / A:100.0%)
+Consecutive suspicious packets: 5
+
+Top features:
+  - protocol_type : 1
+  - service       : 44
+  - flag          : 1
+  - src_bytes     : 0
+  - dst_bytes     : 0
+============================================================================ INTRUSION ALERT ====================
+Time       : 2025-10-20 16:12:09.238903
+Source     : 10.0.0.99:12345
+Destination: 192.168.0.1:80
+Protocol   : TCP
+Length     : 1 bytes
+
+Prediction : ATTACK (N:0.0% / A:100.0%)
+Consecutive suspicious packets: 3
+
+Top features:
+  - protocol_type : 1
+  - service       : 44
+  - flag          : 4
+  - src_bytes     : 1
+  - dst_bytes     : 0
+============================================================================ INTRUSION ALERT ====================
+Time       : 2025-10-20 16:12:10.906838
+Source     : 10.0.0.99:12345
+Destination: 192.168.0.1:80
+Protocol   : TCP
+Length     : 0 bytes
+
+Prediction : ATTACK (N:0.0% / A:100.0%)
+Consecutive suspicious packets: 3
+
+Top features:
+  - protocol_type : 1
+  - service       : 26
+  - flag          : 1
+  - src_bytes     : 0
+  - dst_bytes     : 0
+============================================================================ INTRUSION ALERT ====================
+Time       : 2025-10-20 16:12:11.047967
+Source     : 10.0.0.99:12345
+Destination: 192.168.0.1:80
+Protocol   : TCP
+Length     : 0 bytes
+
+Prediction : ATTACK (N:0.0% / A:100.0%)
+Consecutive suspicious packets: 4
+
+Top features:
+  - protocol_type : 1
+  - service       : 18
+  - flag          : 5
+  - src_bytes     : 0
+  - dst_bytes     : 0
+============================================================================ INTRUSION ALERT ====================
+Time       : 2025-10-20 16:12:11.194529
+Source     : 10.0.0.99:12345
+Destination: 192.168.0.1:80
+Protocol   : TCP
+Length     : 1 bytes
+
+Prediction : ATTACK (N:0.0% / A:100.0%)
+Consecutive suspicious packets: 5
+
+Top features:
+  - protocol_type : 1
+  - service       : 49
+  - flag          : 4
+  - src_bytes     : 1
+  - dst_bytes     : 0
+============================================================================ INTRUSION ALERT ====================
+Time       : 2025-10-20 16:12:11.337294
+Source     : 10.0.0.99:12345
+Destination: 192.168.0.1:80
+Protocol   : TCP
+Length     : 0 bytes
+
+Prediction : ATTACK (N:0.0% / A:100.0%)
+Consecutive suspicious packets: 6
+
+Top features:
+  - protocol_type : 1
+  - service       : 6
+  - flag          : 1
+  - src_bytes     : 0
+  - dst_bytes     : 0
+============================================================================ INTRUSION ALERT ====================
+Time       : 2025-10-20 16:12:11.479984
+Source     : 10.0.0.99:12345
+Destination: 192.168.0.1:80
+Protocol   : TCP
+Length     : 0 bytes
+
+Prediction : ATTACK (N:0.0% / A:100.0%)
+Consecutive suspicious packets: 7
+
+Top features:
+  - protocol_type : 1
+  - service       : 42
+  - flag          : 5
+  - src_bytes     : 0
+  - dst_bytes     : 0
+============================================================================ INTRUSION ALERT ====================
+Time       : 2025-10-20 16:12:11.601268
+Source     : 10.0.0.99:12345
+Destination: 192.168.0.1:80
+Protocol   : TCP
+Length     : 0 bytes
+
+Prediction : ATTACK (N:0.0% / A:100.0%)
+Consecutive suspicious packets: 8
+
+Top features:
+  - protocol_type : 1
+  - service       : 49
+  - flag          : 1
+  - src_bytes     : 0
+  - dst_bytes     : 0
+============================================================================ INTRUSION ALERT ====================
+Time       : 2025-10-20 16:12:12.176507
+Source     : 10.0.0.99:12345
+Destination: 192.168.0.1:80
+Protocol   : TCP
+Length     : 0 bytes
+
+Prediction : ATTACK (N:0.0% / A:100.0%)
+Consecutive suspicious packets: 3
+
+Top features:
+  - protocol_type : 1
+  - service       : 59
+  - flag          : 5
+  - src_bytes     : 0
+  - dst_bytes     : 0
+============================================================================ INTRUSION ALERT ====================
+Time       : 2025-10-20 16:12:12.320980
+Source     : 10.0.0.99:12345
+Destination: 192.168.0.1:80
+Protocol   : TCP
+Length     : 0 bytes
+
+Prediction : ATTACK (N:0.0% / A:100.0%)
+Consecutive suspicious packets: 4
+
+Top features:
+  - protocol_type : 1
+  - service       : 63
+  - flag          : 5
+  - src_bytes     : 0
+  - dst_bytes     : 0
+============================================================================ INTRUSION ALERT ====================
+Time       : 2025-10-20 16:12:14.191163
+Source     : 10.0.0.99:12345
+Destination: 192.168.0.1:80
+Protocol   : OTHER
+Length     : 8 bytes
+
+Prediction : ATTACK (N:0.0% / A:100.0%)
+Consecutive suspicious packets: 3
+
+Top features:
+  - protocol_type : 0
+  - service       : 14
+  - flag          : 9
+  - src_bytes     : 8
+  - dst_bytes     : 0
+============================================================================ INTRUSION ALERT ====================
+Time       : 2025-10-20 16:12:14.333899
+Source     : 10.0.0.99:12345
+Destination: 192.168.0.1:80
+Protocol   : TCP
+Length     : 0 bytes
+
+Prediction : ATTACK (N:0.0% / A:100.0%)
+Consecutive suspicious packets: 4
+
+Top features:
+  - protocol_type : 1
+  - service       : 49
+  - flag          : 5
+  - src_bytes     : 0
+  - dst_bytes     : 0
+============================================================================ INTRUSION ALERT ====================
+Time       : 2025-10-20 16:12:14.477590
+Source     : 10.0.0.99:12345
+Destination: 192.168.0.1:80
+Protocol   : TCP
+Length     : 0 bytes
+
+Prediction : ATTACK (N:0.0% / A:100.0%)
+Consecutive suspicious packets: 5
+
+Top features:
+  - protocol_type : 1
+  - service       : 20
+  - flag          : 5
+  - src_bytes     : 0
+  - dst_bytes     : 0
+============================================================================ INTRUSION ALERT ====================
+Time       : 2025-10-20 16:12:14.622555
+Source     : 10.0.0.99:12345
+Destination: 192.168.0.1:80
+Protocol   : TCP
+Length     : 0 bytes
+
+Prediction : ATTACK (N:0.0% / A:100.0%)
+Consecutive suspicious packets: 6
+
+Top features:
+  - protocol_type : 1
+  - service       : 49
+  - flag          : 5
+  - src_bytes     : 0
+  - dst_bytes     : 0
+============================================================================ INTRUSION ALERT ====================
+Time       : 2025-10-20 16:12:18.709687
+Source     : 10.0.0.99:12345
+Destination: 192.168.0.1:80
+Protocol   : TCP
+Length     : 0 bytes
+
+Prediction : ATTACK (N:0.0% / A:100.0%)
+Consecutive suspicious packets: 3
+
+Top features:
+  - protocol_type : 1
+  - service       : 68
+  - flag          : 5
+  - src_bytes     : 0
+  - dst_bytes     : 0
+============================================================================ INTRUSION ALERT ====================
+Time       : 2025-10-20 16:12:20.260523
+Source     : 10.0.0.99:12345
+Destination: 192.168.0.1:80
+Protocol   : TCP
+Length     : 0 bytes
+
+Prediction : ATTACK (N:0.0% / A:100.0%)
+Consecutive suspicious packets: 3
+
+Top features:
+  - protocol_type : 1
+  - service       : 8
+  - flag          : 1
+  - src_bytes     : 0
+  - dst_bytes     : 0
+============================================================================ INTRUSION ALERT ====================
+Time       : 2025-10-20 16:12:20.408047
+Source     : 10.0.0.99:12345
+Destination: 192.168.0.1:80
+Protocol   : TCP
+Length     : 0 bytes
+
+Prediction : ATTACK (N:0.0% / A:100.0%)
+Consecutive suspicious packets: 4
+
+Top features:
+  - protocol_type : 1
+  - service       : 21
+  - flag          : 5
+  - src_bytes     : 0
+  - dst_bytes     : 0
+============================================================================ INTRUSION ALERT ====================
+Time       : 2025-10-20 16:12:20.548154
+Source     : 10.0.0.99:12345
+Destination: 192.168.0.1:80
+Protocol   : TCP
+Length     : 334 bytes
+
+Prediction : ATTACK (N:0.0% / A:100.0%)
+Consecutive suspicious packets: 5
+
+Top features:
+  - protocol_type : 1
+  - service       : 20
+  - flag          : 9
+  - src_bytes     : 334
+  - dst_bytes     : 0
+============================================================================ INTRUSION ALERT ====================
+Time       : 2025-10-20 16:12:21.526889
+Source     : 10.0.0.99:12345
+Destination: 192.168.0.1:80
+Protocol   : OTHER
+Length     : 18 bytes
+
+Prediction : ATTACK (N:0.0% / A:100.0%)
+Consecutive suspicious packets: 3
+
+Top features:
+  - protocol_type : 0
+  - service       : 14
+  - flag          : 9
+  - src_bytes     : 18
+  - dst_bytes     : 0
+============================================================================ INTRUSION ALERT ====================
+Time       : 2025-10-20 16:12:24.774025
+Source     : 10.0.0.99:12345
+Destination: 192.168.0.1:80
+Protocol   : TCP
+Length     : 0 bytes
+
+Prediction : ATTACK (N:0.0% / A:100.0%)
+Consecutive suspicious packets: 3
+
+Top features:
+  - protocol_type : 1
+  - service       : 18
+  - flag          : 5
+  - src_bytes     : 0
+  - dst_bytes     : 0
+============================================================================ INTRUSION ALERT ====================
+Time       : 2025-10-20 16:12:27.119422
+Source     : 10.0.0.99:12345
+Destination: 192.168.0.1:80
+Protocol   : TCP
+Length     : 0 bytes
+
+Prediction : ATTACK (N:0.0% / A:100.0%)
+Consecutive suspicious packets: 3
+
+Top features:
+  - protocol_type : 1
+  - service       : 60
+  - flag          : 5
+  - src_bytes     : 0
+  - dst_bytes     : 0
+============================================================================ INTRUSION ALERT ====================
+Time       : 2025-10-20 16:12:28.249886
+Source     : 10.0.0.99:12345
+Destination: 192.168.0.1:80
+Protocol   : TCP
+Length     : 0 bytes
+
+Prediction : ATTACK (N:0.0% / A:100.0%)
+Consecutive suspicious packets: 3
+
+Top features:
+  - protocol_type : 1
+  - service       : 4
+  - flag          : 5
+  - src_bytes     : 0
+  - dst_bytes     : 0
+============================================================================ INTRUSION ALERT ====================
+Time       : 2025-10-20 16:12:28.400700
+Source     : 10.0.0.99:12345
+Destination: 192.168.0.1:80
+Protocol   : OTHER
+Length     : 8 bytes
+
+Prediction : ATTACK (N:0.0% / A:100.0%)
+Consecutive suspicious packets: 4
+
+Top features:
+  - protocol_type : 0
+  - service       : 14
+  - flag          : 9
+  - src_bytes     : 8
+  - dst_bytes     : 0
+============================================================================ INTRUSION ALERT ====================
+Time       : 2025-10-20 16:12:33.966070
+Source     : 10.0.0.99:12345
+Destination: 192.168.0.1:80
+Protocol   : TCP
+Length     : 0 bytes
+
+Prediction : ATTACK (N:0.0% / A:100.0%)
+Consecutive suspicious packets: 3
+
+Top features:
+  - protocol_type : 1
+  - service       : 2
+  - flag          : 5
+  - src_bytes     : 0
+  - dst_bytes     : 0
+============================================================================ INTRUSION ALERT ====================
+Time       : 2025-10-20 16:12:34.111758
+Source     : 10.0.0.99:12345
+Destination: 192.168.0.1:80
+Protocol   : TCP
+Length     : 0 bytes
+
+Prediction : ATTACK (N:0.0% / A:100.0%)
+Consecutive suspicious packets: 4
+
+Top features:
+  - protocol_type : 1
+  - service       : 49
+  - flag          : 5
+  - src_bytes     : 0
+  - dst_bytes     : 0
+============================================================================ INTRUSION ALERT ====================
+Time       : 2025-10-20 16:12:34.241682
+Source     : 10.0.0.99:12345
+Destination: 192.168.0.1:80
+Protocol   : TCP
+Length     : 0 bytes
+
+Prediction : ATTACK (N:0.0% / A:100.0%)
+Consecutive suspicious packets: 5
+
+Top features:
+  - protocol_type : 1
+  - service       : 44
+  - flag          : 1
+  - src_bytes     : 0
+  - dst_bytes     : 0
+============================================================================ INTRUSION ALERT ====================
+Time       : 2025-10-20 16:12:39.203824
+Source     : 10.0.0.99:12345
+Destination: 192.168.0.1:80
+Protocol   : TCP
+Length     : 0 bytes
+
+Prediction : ATTACK (N:0.0% / A:100.0%)
+Consecutive suspicious packets: 3
+
+Top features:
+  - protocol_type : 1
+  - service       : 49
+  - flag          : 5
+  - src_bytes     : 0
+  - dst_bytes     : 0
+============================================================================ INTRUSION ALERT ====================
+Time       : 2025-10-20 16:12:40.188680
+Source     : 10.0.0.99:12345
+Destination: 192.168.0.1:80
+Protocol   : TCP
+Length     : 0 bytes
+
+Prediction : ATTACK (N:0.0% / A:100.0%)
+Consecutive suspicious packets: 3
+
+Top features:
+  - protocol_type : 1
+  - service       : 7
+  - flag          : 5
+  - src_bytes     : 0
+  - dst_bytes     : 0
+============================================================================ INTRUSION ALERT ====================
+Time       : 2025-10-20 16:12:40.332654
+Source     : 10.0.0.99:12345
+Destination: 192.168.0.1:80
+Protocol   : TCP
+Length     : 5133876 bytes
+
+Prediction : ATTACK (N:1.0% / A:99.0%)
+Consecutive suspicious packets: 4
+
+Top features:
+  - protocol_type : 1
+  - service       : 20
+  - flag          : 9
+  - src_bytes     : 5133876
+  - dst_bytes     : 0
+============================================================================ INTRUSION ALERT ====================
+Time       : 2025-10-20 16:12:40.478094
+Source     : 10.0.0.99:12345
+Destination: 192.168.0.1:80
+Protocol   : OTHER
+Length     : 520 bytes
+
+Prediction : ATTACK (N:0.0% / A:100.0%)
+Consecutive suspicious packets: 5
+
+Top features:
+  - protocol_type : 0
+  - service       : 15
+  - flag          : 9
+  - src_bytes     : 520
+  - dst_bytes     : 0
+============================================================================ INTRUSION ALERT ====================
+Time       : 2025-10-20 16:12:40.612361
+Source     : 10.0.0.99:12345
+Destination: 192.168.0.1:80
+Protocol   : TCP
+Length     : 0 bytes
+
+Prediction : ATTACK (N:0.0% / A:100.0%)
+Consecutive suspicious packets: 6
+
+Top features:
+  - protocol_type : 1
+  - service       : 8
+  - flag          : 1
+  - src_bytes     : 0
+  - dst_bytes     : 0
+============================================================================ INTRUSION ALERT ====================
+Time       : 2025-10-20 16:12:42.277262
+Source     : 10.0.0.99:12345
+Destination: 192.168.0.1:80
+Protocol   : TCP
+Length     : 0 bytes
+
+Prediction : ATTACK (N:0.0% / A:100.0%)
+Consecutive suspicious packets: 3
+
+Top features:
+  - protocol_type : 1
+  - service       : 10
+  - flag          : 5
+  - src_bytes     : 0
+  - dst_bytes     : 0
+============================================================================ INTRUSION ALERT ====================
+Time       : 2025-10-20 16:12:43.966073
+Source     : 10.0.0.99:12345
+Destination: 192.168.0.1:80
+Protocol   : TCP
+Length     : 0 bytes
+
+Prediction : ATTACK (N:0.0% / A:100.0%)
+Consecutive suspicious packets: 3
+
+Top features:
+  - protocol_type : 1
+  - service       : 58
+  - flag          : 5
+  - src_bytes     : 0
+  - dst_bytes     : 0
+============================================================================ INTRUSION ALERT ====================
+Time       : 2025-10-20 16:12:46.073196
+Source     : 10.0.0.99:12345
+Destination: 192.168.0.1:80
+Protocol   : TCP
+Length     : 0 bytes
+
+Prediction : ATTACK (N:0.0% / A:100.0%)
+Consecutive suspicious packets: 3
+
+Top features:
+  - protocol_type : 1
+  - service       : 49
+  - flag          : 5
+  - src_bytes     : 0
+  - dst_bytes     : 0
+============================================================================ INTRUSION ALERT ====================
+Time       : 2025-10-20 16:12:46.219194
+Source     : 10.0.0.99:12345
+Destination: 192.168.0.1:80
+Protocol   : TCP
+Length     : 0 bytes
+
+Prediction : ATTACK (N:0.0% / A:100.0%)
+Consecutive suspicious packets: 4
+
+Top features:
+  - protocol_type : 1
+  - service       : 35
+  - flag          : 5
+  - src_bytes     : 0
+  - dst_bytes     : 0
+============================================================================ INTRUSION ALERT ====================
+Time       : 2025-10-20 16:12:46.368046
+Source     : 10.0.0.99:12345
+Destination: 192.168.0.1:80
+Protocol   : TCP
+Length     : 0 bytes
+
+Prediction : ATTACK (N:0.0% / A:100.0%)
+Consecutive suspicious packets: 5
+
+Top features:
+  - protocol_type : 1
+  - service       : 20
+  - flag          : 5
+  - src_bytes     : 0
+  - dst_bytes     : 0
+============================================================================ INTRUSION ALERT ====================
+Time       : 2025-10-20 16:12:47.219098
+Source     : 10.0.0.99:12345
+Destination: 192.168.0.1:80
+Protocol   : TCP
+Length     : 0 bytes
+
+Prediction : ATTACK (N:0.0% / A:100.0%)
+Consecutive suspicious packets: 3
+
+Top features:
+  - protocol_type : 1
+  - service       : 28
+  - flag          : 5
+  - src_bytes     : 0
+  - dst_bytes     : 0
+============================================================================ INTRUSION ALERT ====================
+Time       : 2025-10-20 16:12:47.361873
+Source     : 10.0.0.99:12345
+Destination: 192.168.0.1:80
+Protocol   : OTHER
+Length     : 8 bytes
+
+Prediction : ATTACK (N:0.0% / A:100.0%)
+Consecutive suspicious packets: 4
+
+Top features:
+  - protocol_type : 0
+  - service       : 14
+  - flag          : 9
+  - src_bytes     : 8
+  - dst_bytes     : 0
+============================================================================ INTRUSION ALERT ====================
+Time       : 2025-10-20 21:20:29.820023
+Source     : 10.0.0.99:12345
+Destination: 192.168.0.1:80
+Protocol   : TCP
+Length     : 0 bytes
+
+Prediction : ATTACK (N:0.0% / A:100.0%)
+Consecutive suspicious packets: 3
+
+Top features:
+  - protocol_type : 1
+  - service       : 49
+  - flag          : 1
+  - src_bytes     : 0
+  - dst_bytes     : 0
+============================================================================ INTRUSION ALERT ====================
+Time       : 2025-10-20 21:20:29.944270
+Source     : 10.0.0.99:12345
+Destination: 192.168.0.1:80
+Protocol   : TCP
+Length     : 0 bytes
+
+Prediction : ATTACK (N:0.0% / A:100.0%)
+Consecutive suspicious packets: 4
+
+Top features:
+  - protocol_type : 1
+  - service       : 49
+  - flag          : 4
+  - src_bytes     : 0
+  - dst_bytes     : 0
+============================================================================ INTRUSION ALERT ====================
+Time       : 2025-10-20 21:20:30.515087
+Source     : 10.0.0.99:12345
+Destination: 192.168.0.1:80
+Protocol   : TCP
+Length     : 0 bytes
+
+Prediction : ATTACK (N:0.0% / A:100.0%)
+Consecutive suspicious packets: 3
+
+Top features:
+  - protocol_type : 1
+  - service       : 29
+  - flag          : 1
+  - src_bytes     : 0
+  - dst_bytes     : 0
+========================================================
